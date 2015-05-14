@@ -27,6 +27,10 @@ import com.zxing.utils.BeepManager;
 import com.zxing.utils.InactivityTimer;
 import com.zxing.utils.ScanHandler;
 
+/**
+ * @author WangXiang
+ * 2015年5月14日下午3:32:06
+ */
 public class ScanFragment extends Fragment implements SurfaceHolder.Callback {
 	private CameraManager cameraManager;
 	private ScanHandler handler;
