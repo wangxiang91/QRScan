@@ -12,6 +12,10 @@ import android.widget.TextView;
 import com.zxing.R;
 import com.zxing.decode.DecodeThread;
 
+/**
+ * @author WangXiang
+ * 2015年5月14日下午4:00:38
+ */
 public class ResultActivity extends Activity {
 
 	private ImageView mResultImage;
