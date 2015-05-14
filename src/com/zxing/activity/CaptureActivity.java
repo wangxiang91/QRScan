@@ -20,6 +20,10 @@ import com.zxing.R;
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
 
+/**
+ * @author WangXiang
+ * 2015年5月14日下午3:01:26
+ */
 public final class CaptureActivity extends FragmentActivity {
 	protected void onCreate(Bundle arg0) {
 		super.onCreate(arg0);
